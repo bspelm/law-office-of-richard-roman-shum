@@ -1,0 +1,909 @@
+{
+  "settings": {
+    "name": "Richard GitHub spousal maintenance calculator nys pdf",
+    "currentPage": "spousal-maintenance-calculator-nys-pdf.html",
+    "theme": {
+      "name": "startm5",
+      "title": "StartM5",
+      "styling": {
+        "primaryColor": "#5f88d4",
+        "secondaryColor": "#ffd7ef",
+        "successColor": "#3a341c",
+        "infoColor": "#320707",
+        "warningColor": "#a0e2e1",
+        "dangerColor": "#ffea64",
+        "mainFont": "Inter Tight",
+        "display1Font": "Inter Tight",
+        "display1Size": 5,
+        "display2Font": "Inter Tight",
+        "display2Size": 4,
+        "display5Font": "Inter Tight",
+        "display5Size": 2.5,
+        "display7Font": "Inter Tight",
+        "display7Size": 1.4,
+        "display4Font": "Inter Tight",
+        "display4Size": 1.2,
+        "isRoundedImages": true,
+        "isRoundedButtons": true,
+        "isLargeButtons": true,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#5f88d4"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.9.4",
+    "siteFonts": [
+      {
+        "css": "'Inter Tight', sans-serif",
+        "name": "Inter Tight",
+        "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "8qpfb43olp",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 13,
+    "versionPublish": "5.9.18",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "spousal-maintenance-calculator-nys-pdf.html": {
+      "settings": {
+        "main": true,
+        "title": "spousal maintenance calculator nys pdf",
+        "meta_descr": "Spousal maintenance calculator NYS pdf. Determining spousal support or alimony can be a challenging aspect of concluding a divorce settlement. It involves a financial contribution from one spouse to the other aimed at guaranteeing that both parties can uphold a standard of living comparable to what they experienced during their marriage.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu1",
+          "_sourceTheme": "mobirise5",
+          "_styles": {
+            "& when not (@sticky)": {
+              ".navbar-dropdown": {
+                "position": "relative !important"
+              },
+              "& when (@transparent)": {
+                ".navbar-dropdown": {
+                  "position": "absolute !important"
+                }
+              }
+            },
+            "& when (@sticky)": {
+              "z-index": "1000",
+              "width": "100%",
+              "& when not (@transparent)": {
+                "position": "relative",
+                "min-height": "60px"
+              },
+              "nav.navbar": {
+                "position": "fixed"
+              }
+            },
+            ".dropdown-item:before": {
+              "font-family": "Moririse2 !important",
+              "content": "\"\\e966\"",
+              "display": "inline-block",
+              "width": "0",
+              "position": "absolute",
+              "left": "1rem",
+              "top": "0.5rem",
+              "margin-right": "0.5rem",
+              "line-height": "1",
+              "font-size": "inherit",
+              "vertical-align": "middle",
+              "text-align": "center",
+              "overflow": "hidden",
+              "transform": "scale(0, 1)",
+              "transition": "all 0.25s ease-in-out"
+            },
+            ".dropdown-menu": {
+              "padding": "0",
+              "border-radius": "4px",
+              "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)"
+            },
+            ".dropdown-item": {
+              "border-bottom": "1px solid #e6e6e6",
+              "&:hover, &:focus": {
+                "background": "@primaryColor !important",
+                "color": "white !important"
+              },
+              "&:hover span": {
+                "color": "white"
+              },
+              "&:first-child": {
+                "border-top-left-radius": "4px",
+                "border-top-right-radius": "4px"
+              },
+              "&:last-child": {
+                "border-bottom": "none",
+                "border-bottom-left-radius": "4px",
+                "border-bottom-right-radius": "4px"
+              }
+            },
+            ".nav-dropdown .link": {
+              "padding": "0 0.3em !important",
+              "margin": "0.667em 1em !important"
+            },
+            ".nav-dropdown .link.dropdown-toggle::after": {
+              "margin-left": "0.5rem",
+              "margin-top": "0.2rem"
+            },
+            ".nav-link": {
+              "position": "relative"
+            },
+            ".container": {
+              "display": "flex",
+              "margin": "auto",
+              "& when not (@collapsed)": {
+                "@media (min-width: 992px)": {
+                  "flex-wrap": "nowrap"
+                }
+              }
+            },
+            ".iconfont-wrapper": {
+              "color": "@iconsColor !important",
+              "font-size": "1.5rem",
+              "padding-right": "0.5rem"
+            },
+            ".navbar-caption": {},
+            ".navbar-nav": {},
+            ".dropdown-menu, .navbar.opened": {
+              "background": "@menuBgColor !important"
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".dropdown .dropdown-menu .dropdown-item": {
+              "width": "auto",
+              "transition": "all 0.25s ease-in-out",
+              "&::after": {
+                "right": "0.5rem"
+              },
+              ".mbr-iconfont": {
+                "margin-right": "0.5rem",
+                "vertical-align": "sub",
+                "&:before": {
+                  "display": "inline-block",
+                  "transform": "scale(1, 1)",
+                  "transition": "all 0.25s ease-in-out"
+                }
+              }
+            },
+            ".collapsed": {
+              ".dropdown-menu .dropdown-item:before": {
+                "display": "none"
+              },
+              ".dropdown .dropdown-menu .dropdown-item": {
+                "padding": "0.235em 1.5em 0.235em 1.5em !important",
+                "transition": "none",
+                "margin": "0 !important"
+              }
+            },
+            ".navbar": {
+              "min-height": "70px",
+              "transition": "all 0.3s",
+              "border-bottom": "1px solid transparent",
+              "&:not(.navbar-short)": {},
+              "& when not (@transparent)": {
+                "box-shadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1)",
+                "background": "@menuBgColor"
+              },
+              "& when (@transparent)": {
+                "background": "rgba(red(@menuBgColor), green(@menuBgColor), blue(@menuBgColor), @opacity)"
+              },
+              "&.opened": {
+                "transition": "all 0.3s"
+              },
+              ".dropdown-item": {
+                "padding": "0.5rem 1.8rem"
+              },
+              ".navbar-logo img": {
+                "width": "auto"
+              },
+              ".navbar-collapse": {
+                "justify-content": "flex-end",
+                "z-index": "1"
+              },
+              "&.collapsed": {
+                "justify-content": "center",
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  },
+                  "@media (min-width: 992px)": {
+                    "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                      "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                    }
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "41%"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem",
+                  "text-align": "center"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-right": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".nav-item .nav-link::before": {
+                  "display": "none"
+                },
+                "&.opened": {
+                  ".dropdown-menu": {
+                    "top": "0"
+                  }
+                },
+                ".dropdown-menu": {
+                  ".dropdown-submenu": {
+                    "left": "0 !important"
+                  },
+                  ".dropdown-item:after": {
+                    "right": "auto"
+                  },
+                  ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
+                    "margin-left": "0.5rem",
+                    "margin-top": "0.2rem",
+                    "border-top": "0.35em solid",
+                    "border-right": "0.35em solid transparent",
+                    "border-left": "0.35em solid transparent",
+                    "border-bottom": "0",
+                    "top": "40%"
+                  }
+                },
+                ".navbar-logo": {
+                  "img": {
+                    "height": "3rem !important"
+                  }
+                },
+                "ul.navbar-nav": {
+                  "li": {
+                    "margin": "auto"
+                  }
+                },
+                ".dropdown-menu .dropdown-item": {
+                  "padding": "0.25rem 1.5rem !important",
+                  "text-align": "center"
+                },
+                ".navbar-brand": {
+                  "flex-shrink": "initial",
+                  "flex-basis": "auto",
+                  "word-break": "break-word",
+                  "padding-right": "2rem"
+                },
+                ".navbar-toggler": {
+                  "flex-basis": "auto"
+                },
+                ".icons-menu": {
+                  "padding-left": "0",
+                  "padding-top": "0.5rem",
+                  "padding-bottom": "0.5rem"
+                }
+              },
+              "&.navbar-short": {
+                "min-height": "60px",
+                ".navbar-logo": {
+                  "img": {
+                    "height": "2.5rem !important"
+                  }
+                },
+                ".navbar-brand": {
+                  "min-height": "60px",
+                  "padding": "0"
+                }
+              }
+            },
+            ".navbar-brand": {
+              "min-height": "70px",
+              "flex-shrink": "0",
+              "align-items": "center",
+              "margin-right": "0",
+              "padding": "10px 0",
+              "transition": "all 0.3s",
+              "word-break": "break-word",
+              "z-index": "1",
+              ".navbar-caption": {
+                "line-height": "inherit !important"
+              },
+              ".navbar-logo a": {
+                "outline": "none"
+              }
+            },
+            ".dropdown-item.active, .dropdown-item:active": {
+              "background-color": "transparent"
+            },
+            ".navbar-expand-lg .navbar-nav .nav-link": {
+              "padding": "0"
+            },
+            ".nav-dropdown .link.dropdown-toggle": {
+              "margin-right": "1.667em",
+              "&[aria-expanded=\"true\"]": {
+                "margin-right": "0",
+                "padding": "0.667em 1.667em"
+              }
+            },
+            ".navbar.navbar-expand-lg .dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                ".dropdown-submenu": {
+                  "margin": "0",
+                  "left": "100%"
+                }
+              }
+            },
+            ".navbar .dropdown.open > .dropdown-menu": {
+              "display": "block"
+            },
+            "ul.navbar-nav": {
+              "flex-wrap": "wrap"
+            },
+            ".navbar-buttons": {
+              "text-align": "center",
+              "min-width": "170px"
+            },
+            "button.navbar-toggler": {
+              "outline": "none",
+              "width": "31px",
+              "height": "20px",
+              "cursor": "pointer",
+              "transition": "all 0.2s",
+              "position": "relative",
+              "align-self": "center",
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all 0.2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all 0.15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all 0.2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              },
+              "&:nth-child(2)": {
+                "transform": "rotate(45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(3)": {
+                "transform": "rotate(-45deg)",
+                "transition": "all 0.25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all 0.2s"
+              }
+            },
+            ".navbar-dropdown": {
+              "padding": "0 1rem",
+              "& when (@sticky)": {
+                "position": "fixed"
+              }
+            },
+            "a.nav-link": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            ".icons-menu": {
+              "flex-wrap": "nowrap",
+              "display": "flex",
+              "justify-content": "center",
+              "padding-left": "1rem",
+              "padding-right": "1rem",
+              "padding-top": "0.3rem",
+              "text-align": "center"
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".navbar": {
+                "height": "70px",
+                "&.opened": {
+                  "height": "auto"
+                }
+              },
+              ".nav-item .nav-link:hover::before": {
+                "width": "175%",
+                "max-width": "calc(100% ~\"+\" 2rem)",
+                "left": "-1rem"
+              }
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"menu menu1\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Logo\" name=\"showLogo\">\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3\" max=\"8\" step=\"0.1\" value=\"3\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Menu Items\" name=\"showItems\">\n        <input type=\"checkbox\" title=\"Icons\" name=\"showIcons\">\n        <select title=\"Amount\" name=\"iconsAmount\" condition=\"showIcons\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#000000\" condition=\"showIcons\">\n        <input type=\"checkbox\" title=\"Button\" name=\"showButtons\">\n        <header>Styles</header>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"range\" title=\"Opacity\" name=\"opacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"transparent\">\n        <input type=\"color\" title=\"Color\" name=\"menuBgColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Hamburger\" name=\"hamburgerColor\" value=\"#000000\">\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-dropdown\" mbr-class=\"{'navbar-fixed-top':sticky,\n                     'navbar-expand-lg':!collapsed,\n                     'collapsed':collapsed}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobiri.se\">\n                        <img src=\"@PROJECT_PATH@/assets/images/logo-1.png\" alt=\"Mobirise Website Builder\" mbr-style=\"{'height': logoSize + 'rem'}\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-7\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-iconFont\"><a class=\"navbar-caption text-black text-primary\" data-app-selector=\".navbar-caption\" href=\"spousal-maintenance-calculator-nys-pdf.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">spousal maintenance calculator nys pdf&nbsp;<br></a></span>\n            </div>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-bs-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" data-bs-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems || showIcons || showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\" mbr-if=\"showItems || showIcons || showButtons\">\n                <ul mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\"><a class=\"nav-link link text-black\" href=\"https://mobiri.se\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">INSERT KEYWORD 6</a></li></ul>\n                <div class=\"icons-menu\" mbr-if=\"showIcons\">\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-facebook socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 1\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-twitter socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 2\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-instagram socicon\"></span>\n                    </a>\n                    <a class=\"iconfont-wrapper\" href=\"https://mobiri.se\" target=\"_blank\" mbr-if=\"iconsAmount > 3\">\n                        <span mbr-icon class=\"p-2 mbr-iconfont socicon-linkedin socicon\"></span>\n                    </a>\n                </div>\n                <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        Download Now</a>\n                </div>\n            </div>\n        </div>\n    </nav>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "menu1-0",
+          "_isUserblock": true,
+          "_cid": "tNFJ21BuKR",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_name": "header1",
+          "_sourceTheme": "mobirise5",
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"5\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value selected>Left</option>\n            <option value=\"justify-content-center\">Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background\n        </header>\n       \n        <fieldset type=\"background\" name=\"bg\" parallax>\n                \n            <input type=\"image\" title=\"Image\" value=\"https://lh3.googleusercontent.com/geougc/AF1QipPZdDeQaVC4fEKkhsjroOkFkTik2-NBxfU9m58C=h600-no\">\n            <input type=\"color\" title=\"Color\" value=\"#7787a5\" selected>\n            <input type=\"video\" title=\"Video\" value=\"INSERT VIDEO 1\">\n          <div>\n\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#777\" width=\"200\" height=\"200\"><path d=\"M6.1 8.7L2.8 12l3.3 3.3-1.4 1.4L0 12l4.7-4.7 1.4 1.4zm13.2-1.4l-1.4 1.4 3.3 3.3-3.3 3.3 1.4 1.4L24 12l-4.7-4.7zM8.1 18.6l1.8.8 6-14-1.8-.8-6 14z\"></path></svg>\n    <p class=\"display-3\">Click to Open Code Editor</p>\n</div>\n            \n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13-1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><b>Law Office of Richard Roman Shum</b></h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">\n                    <div>\n  \n<iframe src=\"https://lh3.googleusercontent.com/geougc/AF1QipO8Kzfp6lPH6W1AnoRl-_4ZL2yEr9hifYlHy7Ls=h400-no\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen></iframe>\n\n</div>\n                                        </h2>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">INSERT TEXT 1</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Create Website</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "header1-1",
+          "_isUserblock": true,
+          "_cid": "tNFJ2tihMg",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-heading": {
+              "padding-top": "16px",
+              "padding-bottom": "8px",
+              "color": "#012b3a"
+            },
+            ".p, .mbr-text": {
+              "color": "#012b3a"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            "a": {
+              "font-weight": "400 !important"
+            },
+            "a.text-danger:hover": {
+              "color": "#E5BE8A !important"
+            }
+          },
+          "_name": "article07",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article07\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"6\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" title=\"Paragraphs Amount\" name=\"articlesAmount\" min=\"1\" max=\"10\" value=\"3\" step=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"/addons/socialm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#fff8ef\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{\n            'mbr-fullscreen': fullScreen}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"row\">\n                <div class=\"col-12 col-md-{{contentWidth}}\">\n                    <div class=\"row\">\n                        <div class=\"col-12\">\n                            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                            </p><h2>How Does the Spousal Maintenance Calculator Work in Manhattan, New York?</h2><p>When couples in Manhattan, New York go through a divorce, one key financial aspect they must resolve is spousal maintenance, often referred to as alimony. To help create more consistent support guidelines, the state has introduced tools to streamline the calculation process. One such tool is the <a href=\"https://www.romanshum.com/manhattan-alimony-calculator/\" class=\"text-primary\" target=\"_blank\">spousal maintenance calculator NYS pdf</a>, which helps determine the amount and duration of maintenance payments based on statutory formulas and required financial data.<br>\n<br>Understanding Spousal Maintenance in New York\n<br>Spousal maintenance is financial support paid by one spouse to another after a separation or divorce to help cover living expenses. It is meant to bridge the gap in earnings and help the lower-earning spouse maintain a standard of living that is somewhat comparable to what was established during the marriage. In Manhattan, as in the rest of New York State, the law takes various factors into account to determine fair payments.<br>\n<br>There are two types of spousal maintenance in New York: temporary maintenance, awarded during divorce proceedings, and post-divorce maintenance, which kicks in after the divorce is finalized. The amount and duration are not arbitrary; they are often initially calculated using a standard method outlined in the state's legislation.<br>\n<br>How the Calculator Functions\n<br>The spousal maintenance calculator NYS pdf is designed to simplify complex legal calculations. It uses the official guidelines set out in New York Domestic Relations Law §236. The calculator requires each spouse’s annual income and applies one of two formulas based on whether child support is also involved.\n<br>Here’s what the calculator typically considers:<br>\n<br>Annual gross income of both spouses\n<br>Whether or not child support is awarded\n<br>The cap on the payor’s income used for calculation purposes, which is updated periodically\n<br>Any adjustments for income over the statutory cap<br>\n<br>Once all the information has been entered, the calculator applies the appropriate formula to generate a guideline amount. This figure gives couples and courts a foundation to begin discussions or decisions, although it can be adjusted based on individual circumstances.<br>\n<br>Where to Find the Calculator\n<br>Anyone can access the spousal maintenance calculator NYS pdf through resources provided by the New York State Unified Court System. The PDF file is user-friendly and allows parties to input data directly into form fields. In some situations, the court may ask parties to submit a completed version of the PDF as part of the divorce case documentation in Manhattan.\n<br>Keep in mind that it's crucial to use the most recent version of the spousal maintenance calculator NYS pdf because the guidelines and caps are subject to change across different years. The calculator itself often includes instructions and statutory references that assist users in understanding how the numbers are derived.<br>\n<br>Determining the Duration of Maintenance\n<br>In addition to calculating the payment amount, the tool can also give guidance on the potential duration of spousal maintenance. Duration is based primarily on the length of the marriage. For example:<br>\n<br>Marriages lasting up to 15 years may result in support for 15% to 30% of the length of the marriage\n<br>Marriages lasting 15-20 years may result in support for 30% to 40%\n<br>Marriages over 20 years may lead to support between 35% and 50% of the marriage length<br>\n<br>These durations are not rigid rules but rather suggested ranges, allowing room for judicial discretion based on specific marriage details, such as health conditions or career sacrifices made during the relationship.<br>\n<br>When Adjustments May Be Necessary\n<br>Although the spousal maintenance calculator NYS pdf provides a helpful starting point, there are times when courts in Manhattan may deviate from the guideline amount. These deviations usually occur in cases where the guideline would be unjust or inappropriate due to factors like:<br>\n<br>Significant differences in property owned by each spouse\n<br>Contributions made by one spouse to the other’s career or education\n<br>Tax consequences to both parties\n<br>Unusual health care expenses or needs<br>\n<br>The court has the authority to review the unique circumstances of each case, so even if you use the spousal maintenance calculator NYS pdf, the final decision could differ based on judicial discretion.<br>\n<br>Conclusion\n<br>For couples divorcing in Manhattan, spousal maintenance is often a central issue. The spousal maintenance calculator NYS pdf offers a structured approach to determining fair support payments, allowing both parties to enter data and receive a guideline figure. While it's an excellent tool for clarity and consistency, it’s essential to remember that each divorce case is unique. Courts retain the flexibility to adjust the outcome based on a detailed understanding of the people involved. Whether you're negotiating with your spouse or preparing for court, using this calculator is a vital first step toward preparing your financial future.&nbsp;<br></p>\n                         \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFJnaSGCs",
+          "_anchor": "article07-4",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-wrapper": {
+                "margin-bottom": "1rem"
+              }
+            },
+            ".row": {
+              "flex-direction": "row-reverse"
+            },
+            "img": {
+              "width": "100%"
+            }
+          },
+          "_name": "image01",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#f7f7f7\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <iframe src=\"https://lh3.googleusercontent.com/geougc/AF1QipM8rkezSgN98SEPtc6hgZH0ezVdwZVtTah79CR8=h400-no\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen></iframe>\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFKjXksbU",
+          "_anchor": "image01-5",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://www.romanshum.com/manhattan-alimony-calculator/\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"yes\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen=\"\"></iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-6"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-heading": {
+              "padding-top": "16px",
+              "padding-bottom": "8px",
+              "color": "#012b3a"
+            },
+            ".p, .mbr-text": {
+              "color": "#012b3a"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            "a": {
+              "font-weight": "400 !important"
+            },
+            "a.text-danger:hover": {
+              "color": "#E5BE8A !important"
+            }
+          },
+          "_name": "article07",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article07\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"6\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" title=\"Paragraphs Amount\" name=\"articlesAmount\" min=\"1\" max=\"10\" value=\"3\" step=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"/addons/socialm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#fff8ef\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{\n            'mbr-fullscreen': fullScreen}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"row\">\n                <div class=\"col-12 col-md-{{contentWidth}}\">\n                    <div class=\"row\">\n                        <div class=\"col-12\">\n                            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                            </p><h2>Understanding the NYS Spousal Maintenance Calculator PDF for Manhattan Residents</h2><p>For residents of Manhattan navigating a divorce, determining fair financial arrangements is often a key component of the legal process. One tool developed by New York State to aid in this financial assessment is the spousal maintenance calculator NYS pdf. This resource can help spouses estimate potential maintenance payments by applying a standardized formula based on current legislation. Understanding how this calculator works is crucial to achieving equitable post-divorce outcomes.<br>\n<br>Purpose of Spousal Maintenance in New York\n<br>Spousal maintenance, previously known as alimony, is court-ordered financial support that one spouse provides to the other after a divorce or separation. These payments are designed to help the receiving party maintain a lifestyle comparable to the one they experienced during the marriage. In Manhattan, just like in the rest of New York State, the legal foundation for determining maintenance relies heavily on factors like income, length of marriage, and future earning capacity.<br>\n<br>The state introduced formal guidelines to promote fairness and predictability in these decisions. The spousal maintenance calculator NYS pdf plays a central role in this initiative, offering both courts and individuals a way to apply the legal formula consistently across different cases.<br>\n<br>How the Calculator Is Used\n<br>Using the spousal maintenance calculator NYS pdf involves inputting specific financial details for each spouse. This typically includes annual gross income, as well as any child support obligations if applicable. The calculator then applies a statutory formula, which differs depending on whether the paying spouse is also responsible for child support.<br>\n<br>The calculator is particularly helpful in Manhattan, where economic disparities between spouses can be more pronounced due to the city’s high cost of living. By generating a guideline figure, the tool makes it easier for both parties to approach negotiations or court proceedings with a clearer view of what a standard maintenance arrangement might look like.<br>\n<br>Key Factors Considered in the Calculation\n<br>Several factors influence the output when using the spousal maintenance calculator NYS pdf. These include:\n<br>Gross annual income of both spouses\n<br>Whether child support is also being paid or received\n<br>The duration of the marriage\n<br>Any income that exceeds the predefined cap used for calculations\n<br>New York State updates the income cap used in the formula periodically. Any earnings above this cap may be subject to different considerations, depending on the specifics of the case. It’s important for users to consult the most up-to-date version of the PDF to ensure accurate results.<br>\n<br>Duration of Spousal Maintenance\n<br>The calculator does more than estimate monthly amounts—it can also provide guidance on how long spousal maintenance should last. Although the courts have discretion, they often refer to recommended durations based on the length of the marriage:<br>\n<br>0-15 years: Maintenance may continue for 15% to 30% of the marriage duration\n<br>15-20 years: 30% to 40% of the marriage duration\n<br>Over 20 years: 35% to 50% of the total length of the marriage\n<br>These recommendations serve as a starting point, allowing judges to modify the length based on individual circumstances such as age, health, or sacrifices made during the marriage.<br>\n<br>Limitations and Adjustments\n<br>While the spousal maintenance calculator NYS pdf offers a helpful baseline, it’s not a substitute for judicial discretion. Courts in Manhattan and elsewhere in New York may adjust the maintenance amount if they find that the calculated figure would result in an unfair or inappropriate outcome.<br>\n<br>Adjustments may be made based on factors like significant healthcare expenses, imbalanced asset distribution, or unusually high income levels. The calculator helps initiate the conversation, but the final determination rests with the court's evaluation of all relevant details.<br>\n<br>Where to Access the Calculator\n<br>The spousal maintenance calculator NYS pdf is readily accessible through the official New York State court system’s website. Users can download the form and enter required data digitally, making it both user-friendly and efficient. Manhattan residents preparing for a divorce or legal separation are encouraged to familiarize themselves with this tool early in the process. Having a completed version on hand can also aid attorneys and judges in streamlining paperwork and accelerating court proceedings.<br>\n<br>Conclusion\n<br>Navigating the financial aspects of divorce in Manhattan requires clear information and reliable tools. The spousal maintenance calculator NYS pdf provides a structured, law-based approach to estimating financial support, giving both payers and recipients a transparent framework from which to begin. While it does not replace legal judgment, it offers valuable insight that can shape more equitable and informed negotiations. For any individual undergoing divorce proceedings in New York, understanding how to use this calculator effectively is an important step toward achieving a fair financial resolution.&nbsp;<br></p>\n                         \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFKYV3ONU",
+          "_anchor": "article07-7",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "video1",
+          "_sourceTheme": "modulem5",
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "& when (@fullWidth)": {
+              ".container-fluid": {
+                "padding": "0 22px",
+                "overflow": "hidden",
+                "@media (max-width: 992px)": {
+                  "padding": "0 16px"
+                },
+                ".row": {
+                  "padding": "0"
+                }
+              }
+            },
+            ".container": {
+              "overflow": "hidden"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            ".video-block": {
+              "width": "62%",
+              "margin": "0 auto",
+              "@media (max-width: 992px)": {
+                "width": "80%"
+              },
+              "@media (max-width: 768px)": {
+                "width": "100%"
+              },
+              ".video-wrapper": {
+                ".app-video-wrapper": {
+                  "img": {
+                    "height": "450px",
+                    "object-fit": "cover",
+                    "@media (max-width: 992px)": {
+                      "height": "300px"
+                    }
+                  }
+                }
+              }
+            },
+            ".app-video-wrapper::before": {
+              "color": "@play",
+              "text-shadow": "none"
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1 modulem5\" group=\"Image & Video\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Play Color\" value=\"#495DFF\" name=\"play\" selected>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" parallax selected>\n            <input type=\"color\" title=\"Color\" value=\"#f1f2f4\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#495DFF\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row\">\n            <div class=\"col-12\">\n                <div class=\"video-block\">\n                    <div mbr-video class=\"video-wrapper\">\n                        <iframe src=\"https://youtu.be/wgmhkU5YisI?feature=shared\"></iframe>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "video1-8",
+          "_isUserblock": true,
+          "_cid": "tNFL0PoHK0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-heading": {
+              "padding-top": "16px",
+              "padding-bottom": "8px",
+              "color": "#012b3a"
+            },
+            ".p, .mbr-text": {
+              "color": "#012b3a"
+            },
+            ".row": {
+              "justify-content": "center"
+            },
+            "a": {
+              "font-weight": "400 !important"
+            },
+            "a.text-danger:hover": {
+              "color": "#E5BE8A !important"
+            }
+          },
+          "_name": "article07",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article07\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"6\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" title=\"Paragraphs Amount\" name=\"articlesAmount\" min=\"1\" max=\"10\" value=\"3\" step=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"/addons/socialm5/components/_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#fff8ef\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{\n            'mbr-fullscreen': fullScreen}\">\n        <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n            <div class=\"row\">\n                <div class=\"col-12 col-md-{{contentWidth}}\">\n                    <div class=\"row\">\n                        <div class=\"col-12\">\n                            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\">\n                            </p><h2>What Legal Factors Affect the Outcome of Spousal Support Calculations in Manhattan?</h2><p>Navigating the process of divorce in Manhattan often involves addressing complex financial matters, one of which is spousal support. New York law provides a framework for determining fair maintenance between former partners, and tools like the spousal maintenance calculator NYS pdf help streamline initial estimates. However, these tools are just a starting point. Several legal factors can affect how much support is ultimately awarded and for how long.<br>\n<br>Understanding the Statutory Formula\n<br>The spousal maintenance calculator NYS pdf operates based on New York’s statutory formula, which considers each party’s gross income, whether child support is involved, and the income cap applied during the calculation. This formula is intended to give couples and the court a baseline amount for consideration. However, the outcome it produces is not always the final word in court proceedings.<br>\n<br>The calculator assumes a set of standard conditions, but actual court cases often involve circumstances that are far from typical. Because of this, judges in Manhattan courts are granted discretion to adjust support amounts based on case-specific factors that go beyond the numbers.<br>\n<br>Duration of the Marriage\n<br>One of the central legal considerations in spousal maintenance cases is the length of the marriage. In general, the longer the marriage, the more likely it is that one party will be awarded extended or even open-ended maintenance. The calculator may offer guidance on this, suggesting durations that scale with the length of a marriage, but these numbers serve primarily as recommendations, not requirements.<br>\n<br>For instance, a marriage lasting 10 years might yield a suggested support duration of 15% to 30% of that time. Still, judges may make adjustments depending on lifestyle during the marriage or sacrifices made by either spouse.<br>\n<br>Income Disparities and Earning Capacity\n<br>Another major legal factor affecting spousal support calculations is the relative income and earning power of each party. While current earnings are fundamental, the court also considers what each person is capable of earning based on their education, experience, and age. If one spouse gave up career advancement or stayed home to raise children, this may be taken into account when calculating support beyond what the spousal maintenance calculator NYS pdf predicts.<br>\n<br>Judges may also consider whether the payer's income significantly exceeds the statutory cap included in the calculator formula. In those cases, income above the cap can be considered for additional support awards on a discretionary basis, particularly in high-cost areas like Manhattan.<br>\n<br>Health and Special Needs\n<br>The physical and mental health of both spouses is another factor that may influence spousal support decisions. If either party is facing long-term medical conditions or disabilities that limit their ability to work, courts may deviate from the guideline amount suggested by the spousal maintenance calculator NYS pdf. The need for ongoing medical treatment, therapies, or personal care can justify higher or longer-lasting support.<br>\n<br>Conversely, if the receiving spouse is in good health and has strong job prospects, the court may reduce the suggested support amount or duration found in the calculator’s output. Thus, these personal conditions can significantly shape the legal outcome.<br>\n<br>Contributions During the Marriage\n<br>New York courts also evaluate non-monetary contributions made during the marriage. For example, a spouse who supported the other while they pursued higher education or advanced a career may be seen as having invested in the family’s future earning potential. This supportive role might lead to an upward adjustment in spousal maintenance beyond what the spousal maintenance calculator NYS pdf determines, particularly if the supporting spouse has fewer resources post-divorce.<br>\n<br>In the same way, if one party managed the household or served as the primary caregiver for children, these contributions are considered valuable and may justify extended support to help the spouse maintain a similar standard of living post-divorce.<br>\n<br>Conclusion\n<br>While the spousal maintenance calculator NYS pdf is a useful starting point in estimating financial obligations during divorce in Manhattan, legal outcomes often vary based on specific details of each case. Factors such as duration of the marriage, earning capacity, health conditions, and personal sacrifices all inform the judge’s final decision. Understanding how these legal considerations influence spousal support can help both parties approach negotiations or litigation with realistic expectations. Ultimately, the court's goal is to reach a fair and reasonable outcome that reflects not just figures on a page, but the real lives affected by them.&nbsp;<br></p>\n                         \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "tNFL1TvpKU",
+          "_anchor": "article07-9",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h2 class=\"display-1\">Law Office of Richard Roman Shum</h2>\n    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.878278216772!2d-73.9840589!3d40.720696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31ec55d6bd591131!2sLaw%20Office%20of%20Richard%20Roman%20Shum%2C%20Esq!5e0!3m2!1sen!2sph!4v1671543706817!5m2!1sen!2sph\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n    <p class=\"display-3\">Law Office of Richard Roman Shum</p>\n    <p class=\"display-3\">20 Clinton St #5d, New York, NY 10002, United States</p>\n    <p class=\"display-3\">(646) 259-3416</p>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-a"
+        },
+        {
+          "_name": "footer1",
+          "_sourceTheme": "careerm5",
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".list": {
+              "list-style": "none",
+              "padding-left": "0",
+              "@media (max-width: 991px)": {
+                "margin-bottom": "2rem"
+              },
+              "@media (min-width: 992px)": {
+                "margin-bottom": "0rem"
+              },
+              "color": "#bbbbbb"
+            },
+            "@media (max-width: 767px)": {
+              ".row": {
+                "text-align": "center"
+              }
+            },
+            "@media (max-width: 991px)": {
+              "div > *:last-child": {
+                "margin-top": "0 !important"
+              }
+            },
+            ".copyright": {
+              "color": "#bbbbbb"
+            }
+          },
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer1 careerm5\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-fullscreen': fullScreen, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Copyright\" name=\"showCopyright\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row mbr-white\">\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\"><b>Law Office of Richard Roman Shum</b></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\">Company Website:</li>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://www.romanshum.com/\" class=\"text-primary\" target=\"_blank\">https://www.romanshum.com/</a></li><a href=\"https://www.romanshum.com/\" class=\"text-primary\" target=\"_blank\">\n                    </a><li class=\"mbr-text item-wrap\"><br></li>\n                </ul>\n            </div>\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\">\n                    <b>Useful Links</b></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><span style=\"font-size: 17.6px;\"><a href=\"https://www.google.com/maps/place/Law+Office+of+Richard+Roman+Shum,+Esq/@40.720696,-73.9840589,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x31ec55d6bd591131!8m2!3d40.720696!4d-73.9840589\" class=\"text-primary\" target=\"_blank\">Manhattan Divorce Lawyer</a></span></li><li class=\"mbr-text item-wrap\"><a href=\"https://s3.amazonaws.com/romanshum.com/manhattan/index.html\" class=\"text-primary\" target=\"_blank\">NYC Uncontested Divorce Lawyers</a></li>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://law-office-of-richard-roman-shum-esq.business.site/?m=true\" class=\"text-primary\" target=\"_blank\">Divorce Attorney NY</a></li>\n                </ul>\n            </div>\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\">\n                    <b>Follow us on Social Media</b></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://www.facebook.com/romanshumesq/\" class=\"text-primary\" target=\"_blank\">Family Law Attorney in Manhattan</a></li>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://www.youtube.com/channel/UCKZKLCrawTsWtroCwMVEklg\" class=\"text-primary\" target=\"_blank\">Manhattan Prenuptial Agreement Lawyer</a></li>\n                    <li class=\"mbr-text item-wrap\"><a href=\"https://twitter.com/rrshum\" class=\"text-primary\" target=\"_blank\">New York City Child Custody Lawyer</a></li><li class=\"mbr-text item-wrap\"><a href=\"https://www.pinterest.com/LawOfficeofRichardRomanShum/\" class=\"text-primary\" target=\"_blank\">Manhattan Alimony Attorney</a></li>\n                </ul>\n            </div>\n            <div class=\"col-6 col-md-4 col-lg-3\">\n                <h5 mbr-text class=\"mbr-section-subtitle mbr-fonts-style mb-2\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\"></h5>\n                <ul class=\"list mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".list\" data-multiline mbr-article>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                    <li class=\"mbr-text item-wrap\"><br></li>\n                </ul>\n            </div>\n            <div class=\"col-12 mt-4\" mbr-if=\"showCopyright\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style copyright align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright\" data-app-placeholder=\"Type Text\">\n                    \n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "footer1-b",
+          "_isUserblock": true,
+          "_cid": "tNFL4JlFjU",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <rssapp-wall id=\"rvMvqcOcNDSEsHbC\"></rssapp-wall>[JS_CODE_0]\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_anchor": "custom-html-c",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://widget.rss.app/v1/wall.js\" type=\"text/javascript\" async></script>"
+          ]
+        }
+      ]
+    }
+  }
+}
